@@ -9,3 +9,4 @@ version = "0.1.0"
 
 [dependencies]
 python = ">=3.13.5,<3.14"
+jax = ">=0.7.0,<0.8"
